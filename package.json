@@ -15,7 +15,7 @@
     "fusioncharts": "^3.14.0",
     "lottie-ios": "^3.0.3",
     "lottie-react-native": "^3.0.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "passport": "^0.4.0",
     "passport-facebook": "^3.0.0",
     "passport-local": "^1.0.0",
